@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "252773944227",
+    "firebase_url": "https://uts-marcelinoariftjoanot-67054.firebaseio.com",
+    "project_id": "uts-marcelinoariftjoanot-67054",
+    "storage_bucket": "uts-marcelinoariftjoanot-67054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252773944227:android:52459c844e98bfa696a816",
+        "android_client_info": {
+          "package_name": "ac.id.atmaluhur.uts_amub_ti7a_1711500011_marcelinoariftjoanoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252773944227-te93s2s2r3qi1r0cf99qa7ijrbj3eicm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPMsS_-Oc3JdX8glkKcTISGUhgzoKkQx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252773944227-te93s2s2r3qi1r0cf99qa7ijrbj3eicm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
